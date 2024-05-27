@@ -1,0 +1,58 @@
+--- Receipt ---
+Customer Name : Ben
+Customer Contact : +233
+Location Name : Big Ben
+City : London
+Country : UK
+One Person Rooms requested : 2
+Two Persons  Rooms requested : 3
+Your final cost will be GHc 585.0
+
+Time of Receipt : 14:11:02.958404
+Thank You for choosing LaVie Transport and Tours !
+
+
+--- Receipt ---
+Customer Name : Ben
+Customer Contact : +233558893595
+Location Name : Big Ben
+City : London
+Country : UK
+One Person Rooms requested : 4
+Two Persons  Rooms requested : 2
+Your final cost will be GHc 630.0
+
+
+Time of Receipt : 15:44:33.183281
+Thank You for choosing LaVie Transport and Tours !
+
+
+--- Receipt ---
+Customer Name : Ben
+Customer Contact : +2335588787
+Location Name : Big Apple
+City : New York City
+Country : USA
+One Person Rooms requested : 3
+Two Persons  Rooms requested : 0
+Your final cost will be GHc 480.0
+
+
+Time of Receipt : 11:51:33.391732
+Thank You for choosing LaVie Transport and Tours !
+
+
+--- Receipt ---
+Customer Name : Ben
+Customer Contact : +23355667788
+Location Name : Big Ben
+City : London
+Country : UK
+One Person Rooms requested : 2
+Two Persons  Rooms requested : 3
+Your final cost will be GHc 585.0
+
+
+Time of Receipt : 12:03:15.249421
+Thank You for choosing LaVie Transport and Tours !
+
