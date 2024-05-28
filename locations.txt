@@ -1,0 +1,28 @@
+Location_name: Brofo
+city: Eastern
+country: GH
+Price Per Person: 3
+Price Per 2 Persons: 5
+Discount: 0.0
+
+Location_name: Nsah
+city: Eastern
+country: GH
+Price Per Person: 10
+Price Per 2 Persons: 20
+Discount: 0.0
+
+Location_name: q
+city: Eastern
+country: GH
+Price Per Person: 100
+Price Per 2 Persons: 200
+Discount: 0.0
+
+Location_name: ww
+city: ww
+country: ww
+Price Per Person: 1
+Price Per 2 Persons: 2
+Discount: 0.0
+
